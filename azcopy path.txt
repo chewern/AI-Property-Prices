@@ -1,0 +1,1 @@
+azcopy copy "D:\Downloads\project\ERN_CHEW_3518H.zip" "https://techassessment.blob.core.windows.net/aiap7-assessment-submission?sv=2019-12-12&ss=bfqt&srt=co&sp=rwacx&se=2020-08-17T11:00:00Z&st=2020-08-11T13:33:32Z&spr=https&sig=OAAwaLzqFAE9NaT3Q0BttlIzYNvU4OrRMsHUegMncSA%3D"
